@@ -3,7 +3,7 @@
 
 # Embedding Neuronal Constraints Drive Superior Learning in Recurrent Neural Networks
 
-This repository contains the implementation for the research paper *"Embedding Neuronal Constraints Drive Superior Learning in Recurrent Neural Networks"* by Mo Shakiba, Rana Rokni, Mohammad Mohammadi, and Nima Dehghani. The work explores how incorporating biological constraints from the MICrONS dataset, can enhance the performance and realism of recurrent neural networks (RNNs) on decision-making tasks.
+This repository contains the implementation for the research paper *"Embedding Neuronal Constraints Drive Superior Learning in Recurrent Neural Networks"* by [Mo Shakiba](https://github.com/moneuron/), [Rana Rokni](https://github.com/ranarokni), [Mohammad Mohammadi](https://github.com/mmohammadi9812), and [Nima Dehghani](https://github.com/neurovium). The work explores how incorporating biological constraints from the MICrONS dataset, can enhance the performance and realism of recurrent neural networks (RNNs) on decision-making tasks.
 
 ## Overview
 
